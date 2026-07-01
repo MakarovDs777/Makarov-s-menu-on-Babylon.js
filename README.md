@@ -7,3 +7,7 @@
 Версия XYZ с фокусировкой камеры при повороте.
 
 [Makarov's menu on Babylon.js (Version 1 - Main menu: Linked to camera focus XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#7TC43Y)
+
+Короче нахер всю эту парашню сделаем нормальное меню.
+
+[Makarov's menu on Babylon.js (Version 2 - FINAL version)](https://playground.babylonjs.com/#DEUX9P)
