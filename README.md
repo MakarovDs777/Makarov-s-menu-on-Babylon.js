@@ -10,4 +10,4 @@
 
 Короче нахер всю эту парашню сделаем нормальное меню.
 
-[Makarov's menu on Babylon.js (Version 2 - FINAL version)](https://playground.babylonjs.com/#DEUX9P)
+[Makarov's menu on Babylon.js (Version 2 - FINAL version)](https://playground.babylonjs.com/#DEUX9P#1)
